@@ -1,0 +1,2 @@
+# synerepo
+devops training
